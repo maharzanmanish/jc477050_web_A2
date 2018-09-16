@@ -1,0 +1,10 @@
+git init
+
+git status
+
+git add <file name>
+
+git config --global user.email "manish.maharjan@my.jcu.edu.au"
+git config --global user.name "Manish Maharjan"
+
+git commit
